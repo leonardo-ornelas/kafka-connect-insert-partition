@@ -1,0 +1,3 @@
+dev/ornelas/kafka/connect/smt/InsertPartition.java
+ dev.ornelas.kafka.connect.smt.InsertPartition
+ dev.ornelas.kafka.connect.smt.InsertPartition$ConfigName
